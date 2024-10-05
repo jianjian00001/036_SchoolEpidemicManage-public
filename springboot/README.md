@@ -1,4 +1,4 @@
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信 zheng0123Long**
 
 #校园疫情管理系统 #java web #java #毕业设计 #课程设计 #mybatis #Springboot  #vue #mysql #源代码
 
@@ -119,9 +119,9 @@
 6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
 7. 访问  http://localhost:8080/
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信 zheng0123Long**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**需要完整代码可以加qq  1556708905 或者加微信  zheng0123Long**
 
 
 
